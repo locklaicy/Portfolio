@@ -10,7 +10,7 @@ Regarder la vidéo sur YouTube :
 
 Cette vidéo était un exercice d'apprentissage des différentes velrus de plan, de cadrage et de montage attendus dans des publicités. J'ai tenu et réglé la caméra (Blackmagic 6k Pro) et j'ai fait le montage sur Premiere Pro et CapCut.
 
-### Projet finql : Publicité Pub Rqndolphe
+### Projet final : Publicité Pub Randolphe
 
 Regarder la vidéo sur YouTube :
 
