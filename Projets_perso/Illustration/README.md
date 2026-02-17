@@ -1,4 +1,4 @@
-# Présentyation globale
+# Présentation globale
 
 Je dessine depuis que je sais tenir un crayon. Et bien que je ne rêve pas d'en faire mon occupation principale, c'est une actiivité qui est une grande part de mon temps libre. J'aime l'aspect de pouvoir créer des personnages comme bon me semble, mais aussi de rendre hommage et de montrer mon soutient à des univers ou des personnalités dont je suis adepte via des fanarts.
 
