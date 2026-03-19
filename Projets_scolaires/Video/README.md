@@ -24,6 +24,6 @@ Travail réalisé en équipe, même si j'ai dirigé la majorité des aspects de 
 
 ### Présentation des activités – Automne 2025
 
-[Vidéo](media/comite_tim_a2025.mp4)
+[Regarder la vidéo sur Youtube](https://youtu.be/T_irWaT_vyg)
 
 Vidéo de présentation des activités réalisées au cours de la session d'automne 2025. Montage fait sur CapCut en environ 5 heures.
