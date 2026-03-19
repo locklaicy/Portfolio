@@ -12,6 +12,8 @@ L'origine de ce groupe et de ce concert provient d'un petit évènement mis en p
 
 Notre groupe s'est alors formé à partir de là, et ainsi, nous avons passé les semianes suivantes à organiser et préparer l'évènement.
 
+## L'organisation
+
 Nous étions deux à être particulièrement investis dans le projet, et naturellement à prendre un peu la tête de la chose. En trois mois, nous avons choisi un répertoire de musique à jouer, un nom de groupe, décidé de la date, créer un logo, faire des répetitions, et le jour même nous avons nou-même installer la scène. Une partie du matériel était fourni par l'école de musique, mais l'autre partie était composée de nos propres instruments. Nous avons été tout du long soutenu par notre professeur, cependant il était plus superviseur et fournisseur que réelement impliqué dasn l'organisation. Nous avons même customisé des t-shirt à l'éffigie de notre groupe ! 
 
 Nous nous sommes donc produit sur la petite scène de la saline de l'association Yellow Waves, au bord de la mer, et avons eu un public d'environ une centaine de personnes.
