@@ -6,7 +6,7 @@
 
 [Regarder la vidéo sur Youtube](https://www.youtube.com/watch?v=HIeh8Wgh_74)
 
-Cette vidéo était un exercice d'apprentissage des différentes velrus de plan, de cadrage et de montage attendus dans des publicités.
+Cette vidéo était un exercice d'apprentissage des différentes valeurs de plan, de cadrage et de montage attendus dans des publicités.
 
 **Rôles tenus** : ommédienne, cadreuse, monteuse
 
