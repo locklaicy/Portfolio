@@ -4,8 +4,8 @@ Portfolio des différents projets personnels ou scolaires que j'ai mené jusqu'�
 
 Lien de mes autres réseaux sociaux :
 
-[X/Twitter](x.com/locklaicy)
+[X/Twitter](https://x.com/locklaicy)
 
-[Instagram](www.instagram.com/locklaicy)
+[Instagram](https://instagram.com/locklaicy)
 
 [Twitch](https://twitch.tv/locklaicy)
