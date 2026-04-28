@@ -27,3 +27,9 @@ Travail réalisé en équipe, même si j'ai dirigé la majorité des aspects de 
 [Regarder la vidéo sur Youtube](https://youtu.be/T_irWaT_vyg)
 
 Vidéo de présentation des activités réalisées au cours de la session d'automne 2025. Montage fait sur CapCut en environ 5 heures.
+
+### Animation After Effects — Hiver 2026
+
+[Regarder la vidéo sur Youtube](https://youtu.be/cmSIgp_UsJs)
+
+Devoir réalisé dasn le cadre du cours Animation 2D qui vise apprendre à utiliser After Effects. J'ai réalisé la grande majorité des assets par moi-même sur Krita, et j'ai fait le montage final sur Premiere Pro.
