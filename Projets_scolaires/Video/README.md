@@ -32,4 +32,4 @@ Vidéo de présentation des activités réalisées au cours de la session d'auto
 
 [Regarder la vidéo sur Youtube](https://youtu.be/cmSIgp_UsJs)
 
-Devoir réalisé dasn le cadre du cours Animation 2D qui vise apprendre à utiliser After Effects. J'ai réalisé la grande majorité des assets par moi-même sur Krita, et j'ai fait le montage final sur Premiere Pro.
+Devoir réalisé dans le cadre du cours Animation 2D qui vise apprendre à utiliser After Effects. J'ai réalisé la grande majorité des assets par moi-même sur Krita, et j'ai fait le montage final sur Premiere Pro. C'est un des projets sur lequel j'ai le plus apprécié travaillé, et qui m'a permis de découvrir des façons d'animer dans AE que je pense réutiliser pour des projets personnels.
