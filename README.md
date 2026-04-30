@@ -1,10 +1,41 @@
-# Portfolio
-Portfolio des différents projets personnels ou scolaires que j'ai mené jusqu'à présent. Il ets encore incomplet mais j'essaye de rajouter un maximum de choses quand j'ai le temps.
+# Présentation
 
-Je suis plutôt active sur mes réseaux sociaux, et ils sont une bonne fenêtre de ce que je fais, donc ils peuvent pêtre intéressants à consulter :
+Salut! Moi, c'est Théana, également reconnue sous le pseudonyme Locklaicy, et je suis étudiante en Techniques d'intégration multimédia depuis septembre 2025 et basée à Montréal.
 
-[X/Twitter](https://x.com/locklaicy)
+J'ai un fort intérêt pour tout ce qui touche à la production audiovisuelle, en particulier l'illustration et le montage vidéo, mais je cherche aussi à m'améliorer en développement web et design graphique.
 
-[Instagram](https://instagram.com/locklaicy)
+On m'a souvent dit que j'étais une personne créative, et je sais être curieuse et débrouillarde quand je travaille sur des projets qui me passionnent.
 
-[Twitch](https://twitch.tv/locklaicy)
+Ce portfolio regroupe différents projets sur lesquels j'ai travaillé, que ce soit à mon compte ou dans un cadre scolaire, et que je trouve pertinents pour montrer mes capacités. 
+
+Alors merci de prendre le temps de consulter ces pages, ça me soutient énormément!
+
+# Pourquoi ce portoflio?
+
+Depuis que j'ai commencé les cours en TIM, j'ai su que j'avais trouvé le domaine qui me plaisait vraiment. Et dasn le cadre de beaucoup de cours, je dois ou j'ai dû réalisé des travaux dont je suis vraiment fière, et qui valent la peine d'être montré. 
+
+Et de manière générale, ça fait longtemps que je produis des choses dans mon coin, alors j'ai lancé ce portfolio afin de regrouper tout ce que j'avais fait.
+
+J'ai déjà mes réseaux sociaux, où je poste une bonne partie de mes travaux, mais un portfolio permet une meilleure classification et est plus professionnel.
+
+# Mes compétences
+
+Je détaille plus dans chaque section de mon portfolio, mais voilà une liste rapide des choses que je maitrise ou que j'apprends:
+
+## Logiciels
+
+- Krita
+- CapCut
+- Figma
+- VS Code
+- After Effects
+- DaVinci Resolve
+- Reaper
+
+# Mes ambitions/l'avenir
+
+Je sais que je veux travailler dans le milieu de la production audiovisuelle après mes études, et j'ai déjà comme objectif de réaliser si possible mon stage de fin d'études dans la boite de production ZQSD Production.
+
+Je vise cette boite en particulier puisqu'ils consilient tout ce dasn quoi je rêve de travailler plus tard : la production audiovisuelle/l'évenementiel et le milieu du streaming français/de l'Esport. Et je suis aussi déjà cliente d'une partie de leurs projets (ZEVENT, ZLAN, Table Quest).
+
+J'espère vraiment pouvoir réaliser cet objectif un jour, et je compte bien me donner les moyens pour.
