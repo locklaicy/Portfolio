@@ -1,8 +1,8 @@
-# Personnage d'un autre artiste
+# Personnage d'un autre artiste (Saiki)
 
 ![](medias/artfight_saiky.jpg)
 
-# Elliott Velenhar (Table Quest
+# Elliott Velenhar (Table Quest)
 
 ![](medias/elliott.jpg)
 
