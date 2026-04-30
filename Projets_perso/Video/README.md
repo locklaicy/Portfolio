@@ -26,3 +26,10 @@ L'avantage d'avoir des notions de montage, c'est que je peux m'en servir pour me
 
 Table Quest est un Jeu de Rôle sur table diffusé sur Twitch sur la chaine d'Alphacast, et c'est une série que j'apprécie particulièrment. Alors j'ai décidé d'animer une courte séquence qui m'a marquée, et bien que j'ai déjà eu ce genre de projets qui m'ai traversé l'esprit auparavent, c'ets le seul que j'ai poussé jusqu'au bout. J'y ai passé une semaine, en travaillant dessus plusieurs heures tout les jours, et je suis encore très fière du résultat, d'autant plus que certains de participants à cette émission ont vu mon animation !
 
+### Animation meme two — bbno$
+
+![Voir la vidéo sur Instagram](https://www.instagram.com/reel/DFLaIMIprw2/)
+
+Petite animation de mes personnages que j'ai réalisé sur CapCut. Au moment de la publication, la musique utilisée (two — bbno$) était en tendance sur les réseaux sociaux, alors ça m'a inspirée et je me suis appropriée la tendance pour en faire un petit montage.
+
+
