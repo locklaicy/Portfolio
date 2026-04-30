@@ -1,6 +1,6 @@
 # Présentation
 
-Salut! Moi, c'est Théana, également reconnue sous le pseudonyme Locklaicy, et je suis étudiante en Techniques d'intégration multimédia depuis septembre 2025 et basée à Montréal.
+Salut! Moi, c'est Théana, également reconnue sous le pseudonyme Locklaicy, et je suis étudiante en Techniques d'intégration multimédia depuis août 2025 et basée à Montréal.
 
 J'ai un fort intérêt pour tout ce qui touche à la production audiovisuelle, en particulier l'illustration et le montage vidéo, mais je cherche aussi à m'améliorer en développement web et design graphique.
 
