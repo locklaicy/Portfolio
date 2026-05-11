@@ -16,7 +16,7 @@ Depuis que j'ai commencé les cours en TIM, j'ai su que j'avais trouvé le domai
 
 Et de manière générale, ça fait longtemps que je produis des choses dans mon coin, alors j'ai lancé ce portfolio afin de regrouper tout ce que j'avais fait.
 
-J'ai déjà mes réseaux sociaux (disponibles sur mon [profil Github](https://github.com/locklaicy)), où je poste une bonne partie de mes travaux, mais un portfolio permet une meilleure classification et est plus professionnel.
+J'ai déjà mes réseaux sociaux (voir bas de page), où je poste une bonne partie de mes travaux, mais un portfolio permet une meilleure classification et est plus professionnel.
 
 # Mes compétences
 
@@ -36,6 +36,16 @@ Je détaille plus dans chaque section de mon portfolio, mais voilà une liste ra
 ## Développement
 - VS Code
 - HTML / CSS / JavaScript
+
+# Mes réseaux sociaux
+
+Instagram : https://instagram.com/locklaicy
+
+Twitter : https://x.com/locklaicy
+
+Twitch : https://twitch.tv/locklaicy
+
+Tik Tok : https://tiktok.com/@locklaicy
 
 # Mes ambitions/l'avenir
 
