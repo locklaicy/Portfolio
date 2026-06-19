@@ -39,6 +39,8 @@ Je détaille plus dans chaque section de mon portfolio, mais voilà une liste ra
 
 # Mes réseaux sociaux
 
+VGen (commissions) : https://vgen.co/locklaicy
+
 Instagram : https://instagram.com/locklaicy
 
 Twitter : https://x.com/locklaicy
