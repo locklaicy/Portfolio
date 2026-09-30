@@ -26,6 +26,7 @@ Je détaille plus dans chaque section de mon portfolio, mais voilà une liste ra
 - Krita
 - Figma
 - Photoshop
+- Maya
 
 ## Vidéo & audio
 - DaVinci Resolve
@@ -36,10 +37,13 @@ Je détaille plus dans chaque section de mon portfolio, mais voilà une liste ra
 ## Développement
 - VS Code
 - HTML / CSS / JavaScript
+- Unity
 
 # Mes réseaux sociaux
 
 VGen (commissions) : https://vgen.co/locklaicy
+
+Artstation (Portfolio artistique) : https://locklaicy.artstation.com 
 
 Instagram : https://instagram.com/locklaicy
 
