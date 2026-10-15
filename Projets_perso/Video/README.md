@@ -4,17 +4,19 @@ Je fais de la vidéo occasionnellement depuis mes 12 ans environ. C'est un passe
 
 Du peu de vidéo que j'ai pu faire je me suis surtout concentrée sur le montage, et j'ai majortiatirement créé des courtes vidéos à but humoristiques, souvent avec un montage volontairement "mauvais". Pendant une période je postais aussi des contenus courts sur TikTok et Instagram pour mettre en avant mes dessins, mais je n'ai pas persévéré.
 
-J'utilise principalement le logiciel CapCut en version gratuite, n'ayant pas les moyens financiers de m'acheter la version pro ou la suite Adobe. J'apprends à uriliser DaVinci Resolve avec mes études, mais mon PC personnel ne fait pas tourner le logiciel de manière fluide.
+J'utilise principalement le logiciel CapCut en version gratuite, n'ayant pas les moyens financiers de m'acheter la version pro ou la suite Adobe. J'apprends à utiliser DaVinci Resolve avec mes études, mais mon PC personnel ne fait pas tourner le logiciel de manière fluide.
+
+J'ai également commencé à apprendre Premiere Pro ainsi qu'After Effects.
 
 # Exemples
 
 ## Best-of de live
 
-[Regarder la vidéo sur Youtube](https://www.youtube.com/watch?v=5xVnNSbTfGc)
+[Regarder la vidéo sur Youtube](https://youtu.be/5KogiCNqMYY)
 
-À une époque, je suivais beaucoup le youtuber Evilsquid, et un type de contenu qui me plaisait beaucoup et qui me plait encore aujourdh'ui sont les best-of de lives. Alors j'ai décidé d'en faire quelques uns moi-même, pour m'essayer à l'exercice.
+Je suis très fan de l'actual play Table Quest, et grâce à mon activité en ligne autour de cette émission et  au reste de la communauté de fans, le streameur Lynkus (MJ de l'émission) a visité en live le serveur Minecraft consacré à celle-ci que nous avons bâti avec une quinzaine de personnes.
 
-Si mes premières tentatives sont assez mauvaises et truffées d'erreurs, celle-ci (qui est la dernière en date et date de début 2024) reste une vidéo dont je suis fière, malgré les quelques erreurs qui s'y trouvent. J'estime que c'est une bonne démonstartion de mes capacités dans un montage qui sert à compiler les meilleurs moments d'un live d'une heure et demie en une vidéo de quelques minute.
+J'ai donc fait un montage pour recouper les meilleurs moments du live depuis son point de vue.
 
 ## Animatics
 
